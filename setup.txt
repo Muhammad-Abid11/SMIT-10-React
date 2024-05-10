@@ -1,0 +1,28 @@
+install NodeJs (its a run time environment)
+cmd---> node -v
+cmd---> npm -v
+
+
+npx create-react-app "projectKname"
+cd "projectKname"
+npm start
+    function --> Components
+    js + html--> JSX JS XML
+    class-->className
+    onclick->onclick
+    const isExist=true // not display on "render"
+    object direct render nhi hoga
+    array ho jayega
+
+
+//for vite project
+npm create vite@latest     
+  cd React-App
+  npm install
+  npm run dev
+
+if you face issue like @rollup/rollup-win32 so delete previous and install old version
+
+"npm create vite@4.0.0
+
+yarn run dev --host //to see on mobile and local network
